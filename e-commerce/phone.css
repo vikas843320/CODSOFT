@@ -1,0 +1,22 @@
+#services {
+    flex-direction: column;
+}
+
+#services .box {
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+
+.h-primary {
+    font-size: 35px;
+}
+
+#contact-box form {
+    width: 80%;
+}
+
+.fbtn {
+    font-size: 13px;
+    padding: 4px 8px;
+}
